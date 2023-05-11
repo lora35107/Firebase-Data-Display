@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "724191460749",
+    "project_id": "fir-displaylora",
+    "storage_bucket": "fir-displaylora.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724191460749:android:8d08bf586c64d05bae51c4",
+        "android_client_info": {
+          "package_name": "com.example.firebasedisplaylora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724191460749-d5cn4f1n354q5bs0q984ctrd4cecnblv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCQji4Isb2rai9RvtqzI6s8UVg87vUAM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724191460749-d5cn4f1n354q5bs0q984ctrd4cecnblv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
